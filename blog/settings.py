@@ -29,7 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '0.0.0.0',
     'my-travel-memories.herokuapp.com', # your herokuapp url
-    '127.0.0.1'
+    '127.0.0.1',
 ]
 
 

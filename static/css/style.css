@@ -10,7 +10,7 @@
 }
 
 body{
-    background: #555 ;
+     background: black ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed; 
@@ -21,7 +21,7 @@ body{
 
 .title{
     /* color:#c8b6ff; */
-    color: #B8D0EB;
+    color: white;
     font-weight:bold;
     text-align: center;
     font-family: 'Playfair Display', serif;
@@ -36,10 +36,10 @@ body{
 }
 .home h3{
     font-size: 2.5rem;
-    color:#B8F2E6;
+    color:#5fc3ce;
 }
 .home h3 span{
-    color:#B8F2E6;
+    color:#5fc3ce;
     font-size: 2.5rem;
 }
 .home h5 span{
@@ -49,10 +49,10 @@ body{
     font-weight: bold;
 }
 h1{
-    color:green;
+    color:#5fc3ce;
 }
 .nav-item span{
-    color:green;
+    color:#fff;
     /* font-size: large; */
 }
 .indi-blog{
@@ -68,23 +68,19 @@ h1{
 .mob-res{
     display: inline;
 }
-.indi-blog:hover{
-    box-shadow: 0 2px 8px  yellow;
-    
-}
 .indi-blog a{
     text-decoration: none;
-    color:green;
+    color:#3a9fa8;
     opacity: 2;
 }
 .comment,.posttitle{
     text-decoration: none;
-    color:green;
+    color:#5fc3ce;
     opacity: 2;
 }
 .comment,.posttitle:hover{
     text-decoration: none;
-    color:yellow;
+    color:#40bbc9;
     opacity: 2;
 }
 
